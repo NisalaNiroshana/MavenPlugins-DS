@@ -28,10 +28,10 @@
         <module>ds-maven-plugins/dslayouts-maven-plugin</module>
         <module>ds-maven-plugins/dsthemes-maven-plugin</module>
         <module>ds-maven-plugins/dsdashboards-maven-plugin</module>
-        <module>ds-maven-archetypes/archetype-gadget</module>
-        <module>ds-maven-archetypes/archetype-dashboard</module>
-        <module>ds-maven-archetypes/archetype-layout</module>
-        <module>ds-maven-archetypes/archetype-theme</module>
+        <module>ds-maven-archetypes/dashboard-archetype</module>
+        <module>ds-maven-archetypes/gadget-archetype</module>
+        <module>ds-maven-archetypes/layout-archetype</module>
+        <module>ds-maven-archetypes/theme-archetype</module>
     </modules>
 
     <properties>

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.20",
+  "id": "sampledashboard",
+  "title": "SampleDashboard",
+  "description": "",
+  "permissions": {
+    "viewers": [
+      "Internal/sampledashboard-viewer"
+    ],
+    "editors": [
+      "Internal/sampledashboard-editor"
+    ],
+    "owners": [
+      "Internal/sampledashboard-owner"
+    ]
+  },
+  "pages": [],
+  "menu": [],
+  "hideAllMenuItems": false,
+  "identityServerUrl": "",
+  "accessTokenUrl": "",
+  "apiKey": "",
+  "apiSecret": "",
+  "theme": {
+    "name": "Default Theme",
+    "properties": {}
+  },
+  "shareDashboard": false,
+  "personalizeDashboard": false,
+  "isUserCustom": false,
+  "isEditorEnable": true,
+  "banner": {
+    "globalBannerExists": false,
+    "customBannerExists": false
+  }
+}
