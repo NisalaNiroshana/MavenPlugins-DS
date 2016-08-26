@@ -23,11 +23,15 @@
     <version>1.0.0</version>
     <packaging>pom</packaging>
     <modules>
-        <module>org.wso2.maven.dashboards</module>
-        <module>dsgadgets-maven-plugin</module>
-        <module>dsdashboards-maven-plugin</module>
-        <module>dslayouts-maven-plugin</module>
-        <module>dsthemes-maven-plugin</module>
+        <module>ds-maven-plugins/org.wso2.maven.dashboards</module>
+        <module>ds-maven-plugins/dsgadgets-maven-plugin</module>
+        <module>ds-maven-plugins/dslayouts-maven-plugin</module>
+        <module>ds-maven-plugins/dsthemes-maven-plugin</module>
+        <module>ds-maven-plugins/dsdashboards-maven-plugin</module>
+        <module>ds-maven-archetypes/archetype-gadget</module>
+        <module>ds-maven-archetypes/archetype-dashboard</module>
+        <module>ds-maven-archetypes/archetype-layout</module>
+        <module>ds-maven-archetypes/archetype-theme</module>
     </modules>
 
     <properties>
